@@ -1,0 +1,13 @@
+release/application.o
+release/bmp.o
+release/dir.o
+release/foodwidget.o
+release/lcd.o
+release/loginwidget.o
+release/main.o
+release/mainwidget.o
+release/mfont.o
+release/shopcarwidget.o
+release/singledish.o
+release/touch.o
+release/widget.o

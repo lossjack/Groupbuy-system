@@ -1,0 +1,13 @@
+debug/application.o
+debug/bmp.o
+debug/dir.o
+debug/foodwidget.o
+debug/lcd.o
+debug/loginwidget.o
+debug/main.o
+debug/mainwidget.o
+debug/mfont.o
+debug/shopcarwidget.o
+debug/singledish.o
+debug/touch.o
+debug/widget.o
